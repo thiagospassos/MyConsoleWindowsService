@@ -1,3 +1,5 @@
+# My Console Windows Service - .NET Core 2.0
+
 Alright, it seems like over and over again, for one reason or another, we end up creating a Windows service in the projects I work on. And even though I've done it so many time, I still dig into previous projects to refresh my memory and get started. 
 
 The idea of this post is to show some of the things I think are essential to setup in a console app that will eventually turn into a Windows service. 
